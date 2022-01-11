@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Je suis une développeuse web de 22 ans, actuellement en 1ère année de Mastère E-Business et Transformation Numérique au sein de l'EFREI Paris.
+
 ### Langages informatiques
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
@@ -21,3 +23,8 @@
 ### Statistiques
 ![Margaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=margaux83&show_icons=true&theme=tokyonight&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margaux83&layout=compact&show_icons=true&theme=tokyonight)
+
+
+### Contact
+
+![LinkedIn](https://img.shields.io/badge/Margaux_HEBERT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
