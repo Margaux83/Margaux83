@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je suis une développeuse web de 22 ans, actuellement en 1ère année de Mastère E-Business et Transformation Numérique au sein de l'EFREI Paris.
+Je suis une développeuse web de 23 ans, actuellement en 2ème année de Mastère E-Business et Transformation Numérique au sein de l'EFREI Paris.
 
 ### Langages informatiques
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
